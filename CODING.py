@@ -74,3 +74,8 @@ print(txt.find("N"))
 a=10
 a-=7
 print(a)
+#twenty-first program
+print(10%5)
+#twenty-second program
+print(10//3)
+print(10**3)
