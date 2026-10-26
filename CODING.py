@@ -87,3 +87,16 @@ print(type(x))
 #twenty-fifth program
 x=bytearray(5)
 print(type(x))
+#twenty-sixth program
+x="bhatta shanmukha abhinav "
+print(x.upper())
+#twenty-seventh program
+x=4.6
+print(round(x))
+#twenty-eighth program
+x=-5.5
+print(abs(x))
+import math
+#twenty-ninth program
+x=math.ceil(5.0)
+print(x)
