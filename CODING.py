@@ -79,3 +79,11 @@ print(10%5)
 #twenty-second program
 print(10//3)
 print(10**3)
+#twenty-third program
+print(15%4**5*3+3//8-5)
+#twenty-fourth program
+x=b"hello world"
+print(type(x))
+#twenty-fifth program
+x=bytearray(5)
+print(type(x))
