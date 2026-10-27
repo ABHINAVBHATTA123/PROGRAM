@@ -100,3 +100,6 @@ import math
 #twenty-ninth program
 x=math.ceil(5.0)
 print(x)
+#thirtieth program
+x='''hi,my name is B.S.ABHINAV i'm a b-tech first year student my father name is B.PRABHAKARA RAO is a private employee and my mother name is B.MAHALAKSHMI she is a home maker and i have a brother his name B.HARSHA RAM HE IS STUDYING in 5th standard'''
+print(x)
