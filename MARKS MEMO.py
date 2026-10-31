@@ -12,3 +12,5 @@ elif MARKS>=60:
     print(f"{NAME}\n{CLASS}\nGRADE ALLOTED : D")
 elif MARKS<60:
     print(f"{NAME}\n{CLASS}\n NO GRADE ALLOTED ")
+
+    
